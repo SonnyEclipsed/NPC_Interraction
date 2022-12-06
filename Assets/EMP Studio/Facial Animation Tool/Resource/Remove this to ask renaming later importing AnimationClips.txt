@@ -1,0 +1,2 @@
+LastCheck = Zombie1 
+DoNotAsk = 1
